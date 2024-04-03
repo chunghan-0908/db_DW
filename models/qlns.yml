@@ -6,3 +6,4 @@ sources:
       - name: ChucVu
       - name: NhanVien
       - name: BaoHiem
+      - name: BangCap
